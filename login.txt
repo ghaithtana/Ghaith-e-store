@@ -1,0 +1,4 @@
+admin:rm777:admin
+ghaith:123:admin
+ammar:123:regular
+reis:123:regular
